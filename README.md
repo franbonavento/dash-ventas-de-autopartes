@@ -1,4 +1,4 @@
-📊 # Dashboard de Ventas de Autopartes
+📊 # Dashboard de Ventas de Autopartes  
 Este proyecto consiste en la creación de un sistema de análisis de ventas para un local de autopartes, utilizando Microsoft SQL Server como base de datos relacional, Python para la carga inicial de datos, y Power BI para la generación de visualizaciones.
 
 ⚠️ Proyecto en construcción. Aún falta completar la parte de automatización del flujo de datos y el desarrollo del dashboard en Power BI.
