@@ -4,15 +4,15 @@ Este proyecto consiste en la creación de un sistema de análisis de ventas para
 ⚠️ Proyecto en construcción. Aún falta completar la parte de automatización del flujo de datos y el desarrollo del dashboard en Power BI.
 
 🛠️ Tecnologías utilizadas
-Python 3 (carga de datos desde Excel a SQL Server)
+- Python 3 (carga de datos desde Excel a SQL Server)
 
-pandas, pyodbc (librerías principales)
+- pandas, pyodbc (librerías principales)
 
-Microsoft SQL Server (creación de base de datos relacional)
+- Microsoft SQL Server (creación de base de datos relacional)
 
-Power BI (visualización de datos – en desarrollo)
+- Power BI (visualización de datos – en desarrollo)
 
-Excel (fuente inicial de datos con múltiples hojas)
+- Excel (fuente inicial de datos con múltiples hojas)
 
 📁 Estructura de datos
 El archivo dataset_repuestos_ampliado.xlsx contiene las siguientes hojas, cada una representando una tabla en la base de datos:
